@@ -19,26 +19,26 @@ const Home = () => {
       <h2 className="mx-5 my-4">Trending Stories</h2>
       <section className="top-stories d-lg-flex mx-5 gap-2">
         <div className="top-story-1">
-          <h6 className="category">Nature</h6>
+          <h6 className="category-1">Nature</h6>
           <h5>The 20 Biggest Agro Companies in Africa 2022</h5>
           <pre>June 24, 2022</pre>
         </div>
         <section className="top-stories-sec-2 me-5">
           <div className="top-story-2">
-            <h6 className="category">Lifestyle</h6>
+            <h6 className="category-2">Lifestyle</h6>
             <h6>The 20 Biggest Fashion Houses in Nigeria 2022</h6>
 
             <pre>June 24, 2022</pre>
           </div>
           <section className="top-stories-sec-3 d-lg-flex mt-2 gap-2">
             <div className="top-story-3">
-              <h6 className="category">Technology</h6>
+              <h6 className="category-3">Technology</h6>
               <h6> The 20 Biggest Fashion Fintech in Nigeria 2022</h6>
 
               <pre>June 24, 2022</pre>
             </div>
             <div className="top-story-4">
-              <h6 className="category">Sport</h6>
+              <h6 className="category-4">Sport</h6>
               <h6>The 20 Biggest Sport Houses in Nigeria 2022</h6>
 
               <pre>June 24, 2022</pre>
